@@ -1,0 +1,6 @@
+c:\users\андрей\documents\visual studio 2017\Projects\gcm_nasos_deux\gcm_nasos_deux\bin\Debug\gcm_nasos_deux.exe.config
+c:\users\андрей\documents\visual studio 2017\Projects\gcm_nasos_deux\gcm_nasos_deux\bin\Debug\gcm_nasos_deux.exe
+c:\users\андрей\documents\visual studio 2017\Projects\gcm_nasos_deux\gcm_nasos_deux\bin\Debug\gcm_nasos_deux.pdb
+c:\users\андрей\documents\visual studio 2017\Projects\gcm_nasos_deux\gcm_nasos_deux\obj\Debug\gcm_nasos_deux.csprojResolveAssemblyReference.cache
+c:\users\андрей\documents\visual studio 2017\Projects\gcm_nasos_deux\gcm_nasos_deux\obj\Debug\gcm_nasos_deux.exe
+c:\users\андрей\documents\visual studio 2017\Projects\gcm_nasos_deux\gcm_nasos_deux\obj\Debug\gcm_nasos_deux.pdb
