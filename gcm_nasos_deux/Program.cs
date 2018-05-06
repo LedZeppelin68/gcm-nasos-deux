@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
+using System.Text;
 
 namespace gcm_nasos_deux
 {
@@ -18,7 +15,6 @@ namespace gcm_nasos_deux
         static uint[] buffer = new uint[521];
         static int jrnd;
         static byte[] junk = GenZeroJunk();
-        //static int type = 0;
 
         static void Main(string[] args)
         {
